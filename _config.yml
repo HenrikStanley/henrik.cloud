@@ -47,8 +47,8 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                : "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
-  secret                 : "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+  siteKey                : "pWUUAAAAACjIK4WShFCdRjHi2o_xdw9L32L0"
+  secret                 : "6Le-pWUUAAAAACOnLoD3ysdNbJ_do4R58dqG9A9H"
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
@@ -56,16 +56,9 @@ atom_feed:
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia
-#algolia:
-#  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
-#  index_name             : minimal_mistakes # YOUR_INDEX_NAME
-# search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
-#  powered_by             : true # true (default), false
-#  files_to_exclude:
-#    - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : #"UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "SfCbBzFD9pgEqVODhinJOJV2cjViF-e2u8UQq2NlG9w" # Replace this with your ID, or delete
 
 # Site Author
 author:
