@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/hp-banner.jpg
-  cta_label: "<i class='far fa-address-card'></i> Contact Me"
+  cta_label: "<i class='far fa-address-book'></i> Contact Me"
   cta_url: "/About/"
   caption: 
 excerpt: 'On my website you can find my blogposts, articles, links to my projects and documentation'
